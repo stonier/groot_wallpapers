@@ -10,7 +10,7 @@ project(groot-wallpapers)
 ##############################################################################
 
 install(DIRECTORY
-            Groot
+            Eye_of_The_Dragon
         DESTINATION
             ${CMAKE_INSTALL_PREFIX}/share/wallpapers
         )
