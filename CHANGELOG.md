@@ -9,6 +9,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Changed
 - ...
 
+## [0.2.0] - 2022-10-13
+### Added
+- stargate.jpg added
+
 ## [0.1.1] - 2017-01-30
 ### Changed
 - fixed naming, syntax to fit wallpaper mechanisms
