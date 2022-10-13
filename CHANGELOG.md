@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Changed
 - ...
 
-## [0.2.0] - 2022-10-13
+## [0.2.0] - 2022-10-12
 ### Added
 - stargate.jpg added
 
